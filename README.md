@@ -1,11 +1,11 @@
-# Hi I'm Patiphan, Welcome to my Github profile 👋
+# Hola soy Fer, bienvenido a mi perfil de Github 👋
 
-🙋 Hola, soy Patipan Pengpao u Om, el fundador de la Escuela MilerDev. Me gusta y me encanta escribir programas. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
+🙋 Hola, soy Fer. Me gusta y me encanta escribir programas. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
 
-![Patiphan Phengpao](https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/102279654_3946030178801985_4031346639992346142_o.jpg?_nc_cat=108&_nc_sid=dd9801&_nc_eui2=AeEwUGT0hsTayTrRnFAX0Iu9BsdjFrpRJNIGx2MWulEk0p1fKKO-lH-mLgBTRmuSbX-JT76GN3y1VdBj-XldfrqQ&_nc_ohc=BMfanKlVBM0AX8BR3PQ&_nc_ht=scontent.fbkk5-7.fna&oh=054a2e8749115132015c83136e3742d1&oe=5F2D3AF4)
+![Fernando Berrios](https://lh3.googleusercontent.com/-vJ1xrrRzp50/AAAAAAAAAAI/AAAAAAAAAGk/fkyBpxZCyIs/photo.jpg)
 
 ## 💖 Contacto
-👉 [Facebook](https://www.facebook.com/patiphannn/)<br>
+👉 [Facebook](https://bit.ly/Fer08F)<br>
 
 ## ⭐ Citas
 > "Tener solo ese conocimiento no es suficiente. Debemos saber cómo usarlo. Y tener una sola intención es demasiado pequeño Debemos saber qué hacer ".
