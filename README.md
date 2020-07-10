@@ -6,6 +6,7 @@
 
 ## 📱 Contacto
 🔗 [Facebook](https://bit.ly/Fer08F)<br>
+🔗 [LinkedIn](https://bit.ly/Fer08In)<br>
 
 ## 📌 Citas
 > "Nuestros primeros esfuerzos son puramente instintivas incitaciones de una vívida e indisciplinada imaginación. Pero esos impulsos tempranos, aunque no son inmediatamente productivos, son del momento más grande y podrían darle forma a nuestros mismos destinos".
