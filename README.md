@@ -1,6 +1,6 @@
 # Hola soy Fer, bienvenido a mi perfil de Github 👋
 
-🙋 Hola, soy Fer. Me gusta y me encanta escribir programas. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
+🙋 Hola, soy Fer. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
 
 ![Fernando Berrios](https://lh3.googleusercontent.com/-vJ1xrrRzp50/AAAAAAAAAAI/AAAAAAAAAGk/fkyBpxZCyIs/photo.jpg)
 
@@ -8,9 +8,9 @@
 👉 [Facebook](https://bit.ly/Fer08F)<br>
 
 ## ⭐ Citas
-> "Tener solo ese conocimiento no es suficiente. Debemos saber cómo usarlo. Y tener una sola intención es demasiado pequeño Debemos saber qué hacer ".
+> "Nuestros primeros esfuerzos son puramente instintivas incitaciones de una vívida e indisciplinada imaginación. Pero esos impulsos tempranos, aunque no son inmediatamente productivos, son del momento más grande y podrían darle forma a nuestros mismos destinos".
 >
-> ~ Leonardo da Vinci
+> ~ Nikola Tesla
 <!--
 **FeVer0710/FeVer0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
