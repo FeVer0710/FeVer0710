@@ -1,6 +1,6 @@
 # Hola soy Fer, bienvenido a mi perfil de Github 👋
 
-🙋 Hola, soy Fer. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
+👦 Hola, soy Fer. Me gusta enseñar y compartir conocimientos con personas interesadas en aprender a crear sitios web y programación.
 
 ![Fernando Berrios](https://lh3.googleusercontent.com/-vJ1xrrRzp50/AAAAAAAAAAI/AAAAAAAAAGk/fkyBpxZCyIs/photo.jpg)
 
